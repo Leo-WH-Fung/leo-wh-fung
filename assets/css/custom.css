@@ -1,0 +1,84 @@
+.table3rows-left{
+	padding-left: 5%;
+	padding-right:5%;
+	width: 10%;
+/*	display:inline-block*/
+
+}
+
+.table3rows-middle{
+	padding-left: 5%;
+	padding-right: 5%;
+	width: 70%;
+/*	display:inline-block*/
+}
+
+.table3rows-right{
+	padding-left: 5%;
+	padding-right: 5%;
+	width: 20%;
+/*	display:inline-block*/
+}
+
+.table2rows-right {
+/*	float:right ;*/
+/*	display:inline-block*/
+}
+
+.subtitle {
+	font-size: 1.2em;
+	width: 15%;
+}
+
+.float-clear {
+	clear: left;
+}
+
+.table {
+	display: table;
+	width: 100%;
+}
+.table-row {
+	display: table-row;
+}
+.table-cell {
+	display: table-cell;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.font-italic {
+	font-style: italic;
+}
+
+.font-smallcap{
+	font-variant: small-caps;
+	font-weight: bold;
+}
+.font-bold{
+	font-weight: bold;
+}
+
+.emphasis {
+	padding: 20px;
+	font-weight: bold;
+	font-size: 1.5em;
+	text-align: center;
+}
+.full-tile {
+	flex: 1 auto;
+}
+
+.itemize {
+	width: 80%;
+	margin: 5% 10% 5% 10%;
+}
+
+.item-block {
+	background-color: #151130;
+	padding: 10px;
+}
+
+.item-block > p {
+	margin: 0px;
+}
